@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Data Analyst
 
 [Risk Prediction for Home Equity Line of Credit](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,10 +17,10 @@
 
 ---
 
-### Category Name 2
+### Social Media Analytics
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [Food Trend Detection](http://example.com/)
+- [Sentiment Analysis](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
