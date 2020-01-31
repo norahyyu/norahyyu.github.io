@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Risk Prediction for Home Equity Line of Credit](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Profitability of Supermarket Sales in 2017](https://public.tableau.com/profile/norah.yu#!/vizhome/profitabilitybycustomer/2017ProfitAnalysis)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
