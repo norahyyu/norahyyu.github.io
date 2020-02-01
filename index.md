@@ -18,7 +18,7 @@ This project aims at developing a predictive model and a decision support system
 
 ## Social Media Analytics
 
-- [Food Trend Detection](http://example.com/)
+- [Food Trend Detection](https://github.com/norahyyu/NLP)
 
 Early detection of emerging food trends can translate into great business opportunities. Today, a lot of food-related discussions occur on social media platforms such as Twitter and Facebook.The purpose of this project is to constructing time series of potential food trends to help retailers see the rise and fall of certain categories of food before competitors do.
 
