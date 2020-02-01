@@ -1,12 +1,12 @@
 title: Yunqing Yu # your name (or website title) here
 logo: "/images/IMG_5940.JPG" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Foodie
-  Traveler 
-  Data Wangler
+  Foodie <br>
+  Traveler <br>
+  Data Wangler <br>
   <br><br>
 
-  <a href="https://www.linkedin.com/in/yunqingyu/">LinkedIn</a> 
+  <a href="https://www.linkedin.com/in/yunqingyu/">LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
