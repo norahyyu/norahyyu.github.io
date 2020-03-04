@@ -22,7 +22,7 @@ This project aims at developing a predictive model and a decision support system
 
 Early detection of emerging food trends can translate into great business opportunities. Today, a lot of food-related discussions occur on social media platforms such as Twitter and Facebook.The purpose of this project is to constructing time series of potential food trends using Facebook post data to help retailers see the rise and fall of certain categories of food.
 
-<img src="images/pumpkin%20pie.jpeg"/>
+<img src="images/pupmkin%20pie.png"/>
 
 ---
 
