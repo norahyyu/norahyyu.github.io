@@ -4,7 +4,7 @@
 
 ## Predictive Analytics
 
-- [Risk Prediction for Home Equity Line of Credit](https://github.com/norahyyu/python-project)
+- [Risk Prediction for Home Equity Line of Credit](https://github.com/norahyyu/python-project/blob/master/risk%20prediction%20for%20HELOC.ipynb)
 
 This project aims at developing a predictive model and a decision support system (DSS) that evaluates the risk of Home Equity Line of Credit (HELOC) applications.
 
@@ -18,7 +18,7 @@ This project aims at developing a predictive model and a decision support system
 
 ## Social Media Analytics
 
-- [Food Trend Detection](https://github.com/norahyyu/NLP)
+- [Food Trend Detection](https://github.com/norahyyu/NLP/blob/master/Detection%20of%20Emerging%20Food%20Trends.pdf)
 
 Early detection of emerging food trends can translate into great business opportunities. Today, a lot of food-related discussions occur on social media platforms such as Twitter and Facebook.The purpose of this project is to constructing time series of potential food trends using Facebook post data to help retailers see the rise and fall of certain categories of food.
 
