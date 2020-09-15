@@ -4,6 +4,11 @@
 
 ## Predictive Analytics
 
+- [Google Stock Price Trends Prediction with LSTM](https://github.com/norahyyu/Stock-price-prediction-using-LSTM/blob/master/Google%20Stock%20Price%20Trends%20Predictions%20using%20LSTM%20.ipynb)
+
+Built a LSTM-based RNN model to capture the downward and upward trends of Google stock price. The model is robust and achieved 86.6% RSME. As we can see, the prediction lags behind the real values, because the model cannot react fast to non-linear changes. But on the other hand, the model reacts well to smooth changes and manages to follow upwards and downward trends.
+<img src="images/stock.png">
+
 - [Risk Prediction for Home Equity Line of Credit](https://github.com/norahyyu/python-project/blob/master/risk%20prediction%20for%20HELOC.ipynb)
 
 This project aims at developing a predictive model and a decision support system (DSS) that evaluates the risk of Home Equity Line of Credit (HELOC) applications.
