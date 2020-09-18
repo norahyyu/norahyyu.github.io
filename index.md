@@ -22,6 +22,10 @@ This project aims at developing a predictive model and a decision support system
 
 
 ## Social Media Analytics
+- [Funnel Analysis for E-commerce Website](https://github.com/norahyyu/Funnel-analysis/blob/master/Funnel%20analysis.ipynb)
+
+Conducted funnel analysis to understand where/when our users abandon the website and get insights on user behavior and on ways to improve the user experience. 
+<img src="images/view.png"/>
 
 - [Food Trend Detection](https://github.com/norahyyu/NLP/blob/master/Detection%20of%20Emerging%20Food%20Trends.pdf)
 
